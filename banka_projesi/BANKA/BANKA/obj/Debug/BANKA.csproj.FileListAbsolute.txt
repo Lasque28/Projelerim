@@ -1,0 +1,15 @@
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\bin\Debug\BANKA.exe.config
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\bin\Debug\BANKA.exe
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\bin\Debug\BANKA.pdb
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form1.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Properties.Resources.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.csproj.GenerateResource.cache
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.exe
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.pdb
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form2.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form3.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form4.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form5.resources
+C:\Users\90536\Desktop\PROJE\BANKA\BANKA\obj\Debug\BANKA.Form6.resources
